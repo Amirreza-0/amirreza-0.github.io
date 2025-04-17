@@ -11,26 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. Computaional Biology and Bioinformatics, Göttingen University, 2025 (expected)
+* B.Sc. in Cell and Molecular Biology, Azad Science and Research Branch University, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2024: Bioinformatics and ML Research Assitant 
+  * Univestitätmedizin Göttingen  University
+  * Duties includes: Building machine learning pipeline
+  * Supervisor: Prof. Anne-christine Hauschild
   
 Skills
 ======
@@ -41,11 +30,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
