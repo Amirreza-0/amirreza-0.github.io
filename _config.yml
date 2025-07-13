@@ -22,10 +22,10 @@ repository               : "Amirreza-0/amirreza-0.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.jpg"
+  name             : "Amirreza Aleyasin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Göttingen"
   employer         : "Universitätsmedizin Göttingen"
   uri              : # URL
