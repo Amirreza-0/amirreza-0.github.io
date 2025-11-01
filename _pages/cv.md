@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **M.Sc. in Computational Biology and Bioinformatics**, Georg-August-Universität Göttingen, Germany, 2022-Present
-  * Current GPA: 1.8
+  * Current GPA: 1.6
   * Relevant Coursework: Machine Learning, Deep Learning, Advanced NLP, Omics Data Analysis, Systems Biology, Computational Biomedicine, Advanced Statistical Learning
 
 * **B.Sc. in Cellular and Molecular Biology**, Science and Research Branch, Islamic Azad University, Tehran, Iran, 2018-2022
