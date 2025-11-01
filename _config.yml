@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Amirreza Aleyasin"
-  pronouns         : # example: "she/her"  
-  bio              : ""
-  location         : "Göttingen"
-  employer         : "Universitätsmedizin Göttingen"
+  pronouns         : # example: "she/her"
+  bio              : "Computational Biologist | Deep Learning | M.Sc. in Computational Biology"
+  location         : "Göttingen, Germany"
+  employer         : "Max Planck Institute & UMG"
   uri              : # URL
   email            : "amirreza.alise@gmail.com" 
 
