@@ -42,4 +42,4 @@ PMGen is freely available at [https://github.com/soedinglab/PMGen](https://githu
 
 ## Authors
 
-Amir H. Asgary, **Amirreza Aleyassin**, Jonas A. Mehl, Burkhard Ludewig, Michele Mishto, Juliane Liepe, Johannes Soeding
+Amir H. Asgary, **Amirreza Aleyasin**, Jonas A. Mehl, Burkhard Ludewig, Michele Mishto, Juliane Liepe, Johannes Soeding
