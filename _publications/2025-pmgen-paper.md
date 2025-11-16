@@ -7,7 +7,7 @@ excerpt: 'An integrated framework for predicting, modeling, and generating pepti
 date: 2025-11-14
 venue: 'bioRxiv'
 paperurl: 'https://doi.org/10.1101/2025.11.14.688404'
-citation: 'Asgary, A. H., Aleyassin, A., Mehl, J. A., Ludewig, B., Mishto, M., Liepe, J., & Soeding, J. (2025). &quot;PMGen: From Peptide-MHC Prediction to Neoantigen Generation.&quot; <i>bioRxiv</i>, 2025.11.14.688404.'
+citation: 'Asgary, A. H., Aleyasin, A., Mehl, J. A., Ludewig, B., Mishto, M., Liepe, J., & Soeding, J. (2025). &quot;PMGen: From Peptide-MHC Prediction to Neoantigen Generation.&quot; <i>bioRxiv</i>, 2025.11.14.688404.'
 ---
 
 ## Abstract
