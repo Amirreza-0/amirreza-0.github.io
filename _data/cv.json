@@ -1,152 +1,221 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Amirreza Aleyasin",
+    "email": "amirreza.alisin@gmail.com",
+    "phone": "+49 151 55 90 57 25",
+    "website": "https://amirreza-0.github.io",
+    "summary": "M.Sc. computational biologist with hands-on experience in deep learning for sequence-structure prediction, protein language models, and HPC-scale training pipelines.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "Grisebachstraße 7",
+      "postalCode": "37077",
+      "city": "Göttingen",
+      "countryCode": "DE",
+      "region": "Lower Saxony"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "amirreza-aleyasin",
+        "url": "https://linkedin.com/in/amirreza-aleyasin"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Amirreza-0",
+        "url": "https://github.com/Amirreza-0"
+      },
+      {
+        "network": "ORCID",
+        "username": "0000-0003-2742-7138",
+        "url": "http://orcid.org/0000-0003-2742-7138"
+      },
+      {
+        "network": "Kaggle",
+        "username": "amirrezaaleyasin",
+        "url": "https://kaggle.com/amirrezaaleyasin"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Söding Lab, Max Planck Institute for Multidisciplinary Sciences",
+      "position": "Internship → Master's Thesis → Research Assistant",
+      "website": "https://www.mpinat.mpg.de/soeding",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "Sequence–structure representation learning, deep-learning model training with custom 2D masked self-attention, transfer learning to underrepresented alleles, protein language models (ESM), likelihood-based loss design for noisy binding labels.",
+      "highlights": [
+        "PMBind (master's thesis; manuscript in preparation)",
+        "PMGen (preprint, second author — DOI: 10.1101/2025.11.14.688404)"
+      ]
+    },
+    {
+      "company": "Hauschild Lab, UMG / Justus Liebig University Giessen",
+      "position": "ML Internship → Research Assistant (FAIrPaCT consortium)",
+      "website": "",
+      "startDate": "2024-04-01",
+      "endDate": "",
+      "summary": "Multi-modal survival modeling from somatic mutations (MAF), RNA expression, and clinical variables across federated clinical sites.",
+      "highlights": [
+        "FedPanod (PyPI)",
+        "FRSF4POD (PyPI, GitHub)"
+      ]
+    },
+    {
+      "company": "Dönitz Lab, University Medical Center Göttingen",
+      "position": "Student Assistant — Onkopus Project",
+      "website": "",
+      "startDate": "2023-11-01",
+      "endDate": "2024-07-01",
+      "summary": "Cancer variant interpretation tooling.",
+      "highlights": [
+        "Built a dynamic KEGG pathway visualizer",
+        "Updated the pyliftover package",
+        "Wrote a GitLab auto-merge pipeline"
+      ]
+    },
+    {
+      "company": "GippLab, Georg-August-Universität Göttingen",
+      "position": "Tutor — Python Programming for Data Scientists",
+      "website": "",
+      "startDate": "2023-04-01",
+      "endDate": "2023-09-01",
+      "summary": "Supported students during exercises, built web scrapers, and curated an NLP dataset for media-bias research.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "Georg-August-Universität Göttingen",
+      "area": "Computational Biology and Bioinformatics",
+      "studyType": "M.Sc.",
+      "startDate": "2022-10-01",
+      "endDate": "2025-10-01",
+      "gpa": "1.6",
+      "courses": [
+        "Machine Learning",
+        "Deep Learning",
+        "Advanced NLP",
+        "Omics Data Analysis",
+        "Systems Biology",
+        "Computational Biomedicine",
+        "Advanced Statistical Learning"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Azad University, Science and Research Branch, Tehran",
+      "area": "Cellular and Molecular Biology",
+      "studyType": "B.Sc.",
+      "startDate": "2018-10-01",
+      "endDate": "2022-01-01",
+      "gpa": "1.7",
+      "courses": [
+        "Microbiology and Laboratory",
+        "Biostatistics",
+        "Biotechnology",
+        "Molecular Genetics",
+        "Genetic Engineering",
+        "Cancer Genetics",
+        "Cell and Molecular Biology"
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": [
+        "Python", "TensorFlow", "Keras", "PyTorch", "scikit-learn", "Pandas", "NumPy",
+        "BioPython", "Biotite", "RDKit", "R", "Bash", "LaTeX", "TypeScript", "React"
+      ]
+    },
+    {
+      "name": "ML / Data Science",
+      "level": "",
+      "keywords": [
+        "Deep Learning", "Representation Learning", "Transfer Learning", "Federated Learning",
+        "NLP", "Simulation-based Inference", "Survival Analysis"
+      ]
+    },
+    {
+      "name": "Bioinformatics",
+      "level": "",
+      "keywords": [
+        "RNA secondary and 3D structure prediction", "Template-based modeling",
+        "Sequence-structure alignment (FoldMason, MAFFT)", "Protein language models (ESM)",
+        "Multi-omics integration", "Genomic variant processing (MAF/VCF)", "RNA-seq"
+      ]
+    },
+    {
+      "name": "Infrastructure",
+      "level": "",
+      "keywords": [
+        "Docker", "Git/GitLab CI/CD", "HPC/SLURM", "Conda/Mamba", "Linux"
+      ]
+    }
+  ],
+  "languages": [
+    { "language": "English", "fluency": "C1 (IELTS Band 7.0)" },
+    { "language": "German", "fluency": "B1" },
+    { "language": "Persian", "fluency": "Native" }
+  ],
+  "interests": [
+    { "name": "Archery", "keywords": ["DHM Barebow Rookie — German University Championships"] },
+    { "name": "Game design", "keywords": [] }
+  ],
+  "references": [
+    {
+      "name": "Dr. Johannes Söding",
+      "reference": "Quantitative and Computational Biology, Max Planck Institute for Multidisciplinary Sciences, Göttingen. soeding@mpinat.mpg.de"
+    },
+    {
+      "name": "Prof. Dr. Anne-Christin Hauschild",
+      "reference": "Predictive Deep Learning for Medicine and Healthcare, Justus Liebig University Giessen. anne-christin.hauschild@uni-giessen.de"
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "PMGen: From Peptide–MHC Prediction to Neoantigen Generation",
+      "publisher": "bioRxiv (preprint)",
+      "releaseDate": "2025-11-14",
+      "website": "https://doi.org/10.1101/2025.11.14.688404",
+      "summary": "Second author (benchmarking and validation). An integrated framework for predicting, modeling, and generating peptides across both MHC classes."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Python Programming for Data Scientists",
+      "institution": "GippLab, Georg-August-Universität Göttingen",
+      "date": "2023-04-01",
+      "role": "Tutor",
+      "description": "Supported students during exercises, built web scrapers, curated NLP dataset for media-bias research."
     }
   ],
-  "portfolio": [
+  "awards": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "title": "Niedersachsenstipendium",
+      "date": "2025",
+      "awarder": "State of Lower Saxony",
+      "summary": "Graduate scholarship awarded by the State of Lower Saxony."
+    },
+    {
+      "title": "Erasmus+ BIP",
+      "date": "2025",
+      "awarder": "European Commission",
+      "summary": "2× travel and study grant (Spain and Sweden)."
+    },
+    {
+      "title": "FAIrPaCT Consortium Workshops Travel Funding",
+      "date": "2024-2025",
+      "awarder": "FAIrPaCT Consortium",
+      "summary": "2× travel funding (Munich and Giessen)."
+    },
+    {
+      "title": "Kaggle Gold Medal — Stanford RNA 3D Folding Part 2",
+      "date": "2026-01",
+      "awarder": "Kaggle",
+      "summary": "Built a pipeline for RNA 3D structure prediction combining homology modeling, MSA-guided folding, deep learning for coordinate prediction, and PDB structure analysis."
     }
-  ]
+  ],
+  "portfolio": []
 }
